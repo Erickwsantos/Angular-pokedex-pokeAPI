@@ -45,6 +45,7 @@
                 bottom: rem-calc(310);
 				left: rem-calc(305);
 				max-width: rem-calc(300);
+				z-index: 9;
             }
 			&__statistics {
 				display: flex;
